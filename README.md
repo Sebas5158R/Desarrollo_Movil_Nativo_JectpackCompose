@@ -1,5 +1,5 @@
-# Desarrollo_Movil_Nativo_JectpackCompose
-Desarrollo Móvil Nativo - Jectpack Compose
-### Proyecto hecho con Kotlin y las anotaciones de Jetpack Compose
+# Desarrollo_Movil_Nativo_JetpackCompose
+Native Mobile Development - Jetpack Compose
+### Project made with Kotlin and Jetpack Compose annotations
 ***
-El proyecto cuenta con una lista de "mensajes" predeterminados por jetpack compose, animaciones y una interfaz sencilla.
+The project features a list of "messages" predetermined by jetpack compose, animations, and a simple interface.
